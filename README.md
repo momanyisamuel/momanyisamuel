@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Momanyi. I work as a Infosec Analyst and Javascript Developer. In my spare time I focus on learning about algorithms in JavaScriptor learn Python so as to start experimenting with machine learning algorithms and math behind them, etc.
+I'm Momanyi. I work as a Infosec Analyst and Javascript Developer. In my spare time I focus on learning about algorithms in JavaScript or learning Python so as to start experimenting with machine learning algorithms and math behind them, etc.
 
 ### Getting in touch
 
